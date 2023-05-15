@@ -1,0 +1,1 @@
+( el.title[0]==='Т') ? akkSum +el : akkSum
